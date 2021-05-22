@@ -2,7 +2,7 @@
 The code for simulating increased resource flow toward maximum power used in https://doi.org/10.1371/journal.pone.0229956
 Usage: 
 
-java MainController <<parameter file>>
+java MainController parameter_file_path
 
 Example parameter CSV file included (maxpower_param.csv)
 
