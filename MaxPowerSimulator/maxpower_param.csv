@@ -1,0 +1,16 @@
+topology,PLANE
+pNoConnection,0.5
+noConnection,-1
+resourcesFile,scalefree_resources.csv
+planeMaxCoords,100;100
+sphereR,224
+nBranchPoints,0
+nConsumers,90
+useStrength,FALSE
+strengthExponent,1
+manualNetwork,TRUE
+randomConsumers,FALSE
+consumersFile,scalefree_agents.csv
+matrixFile,scalefree_matrix.csv
+branchPointsFile,nobranchpoints.csv
+outputCSV,scalefree_output.csv
